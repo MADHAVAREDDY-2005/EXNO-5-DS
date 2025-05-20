@@ -189,4 +189,4 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/d8adfde7-d9fb-4fab-9982-0fefd7b1563e)
 
 # Result:
-Thus we have explored and applied every techniques matplot library successfully.
+Thus we have explored and applied every technique using matplot library successfully.

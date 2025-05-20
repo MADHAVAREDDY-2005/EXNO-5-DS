@@ -1,5 +1,6 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
-
+### Name : K MADHAVA REDDY
+### Reg No: 212223240064
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
